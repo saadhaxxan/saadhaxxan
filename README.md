@@ -37,11 +37,12 @@
 <br />
 <br />
 
-<a href="https://sourcerer.io/saadhaxxan"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
-<br />
-<br />
 <img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+
+<a href="https://sourcerer.io/saadhaxxan"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 [website]: http://saad-hassan.com/
 [twitter]: https://twitter.com/HaxxanSaad
 [instagram]: https://instagram.com/saadhaxxan
