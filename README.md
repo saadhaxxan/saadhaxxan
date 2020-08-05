@@ -45,5 +45,5 @@
 [website]: http://saad-hassan.com/
 [twitter]: https://twitter.com/HaxxanSaad
 [instagram]: https://instagram.com/saadhaxxan
-[linkedin]: hhttps://www.linkedin.com/in/saad-haxxan/
+[linkedin]: https://www.linkedin.com/in/saad-haxxan/
 [facebook]: https://www.facebook.com/saaadhaxxan
