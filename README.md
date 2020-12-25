@@ -2,10 +2,9 @@
 
 ## I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working on a AI Research, Applied AI and Python Django!
-- 🌱 I’m currently learning Backend with Javascript 
+- 🌱 I’m currently learning Android,System Design and Rust 
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
--  2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
