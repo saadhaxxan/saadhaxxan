@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Backend with Javascript 
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
+-  2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
