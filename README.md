@@ -32,3 +32,8 @@
 }
 ```
 <img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&hide_border=true" />
+
+
+<br />
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadhaxxan&layout=compact)](https://github.com/saadhaxxan/github-readme-stats)
