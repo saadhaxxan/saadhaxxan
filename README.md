@@ -1,7 +1,7 @@
 ### Hi there, I'm Saad 👋
 
 ## I'm a Developer, Teacher and Researcher!
-- 🔭 I’m currently working on a AI Research, Applied AI and Python Django!
+- 🔭 I’m currently working as ML Engineer and Full Stack Developer
 - 🌱 I’m currently learning Android, System Design and Rust 
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
