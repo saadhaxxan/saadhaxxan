@@ -24,11 +24,11 @@
 ```json
 {
    "languages": ["JS/TS", "Python", "Java/Kotlin", "C/C++"],
-   "backend": ["NodeJS", "Django", "Flask" ,"ROR","Managed Cloud Services in AWS/Azure"],
-   "frontend": ["Angular/Material", "React/Redux", "HTML/CSS"],
+   "backend": ["NodeJS", "Django", "Flask", "Managed Cloud Services in AWS/Azure"],
+   "frontend": ["Material", "React/Redux", "HTML5/CSS3", "Bootstrap"],
    "databases": ["Mongodb", "Firebase", "Mysql", "Postgresql"],
    "ai framework":["Tensorflow", "PyTorch", "Scikit-learn"],
-   "other skills":["Cloud Technologies (Docker/K8s)", "CI/CD Pipelines", "Network Protocols & Programming", "Competitive Programming"]
+   "other skills":["Cloud Technologies (Docker)", "CI/CD Pipelines", "Network Protocols & Programming", "Competitive Programming"]
 }
 ```
 <img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&hide_border=true" />
