@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Full Stack Developer
-- 🌱 I’m currently learning Competitive-coding, Distributed Systems and System Design
+- 🌱 I’m currently learning Competitive-coding, large scale distributed systems and backend engineering
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
@@ -13,7 +13,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/saad-haxxan/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saadhaxxan/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@saadhaxxan)
-[![GitHub followers](https://img.shields.io/github/followers/saadhaxxan?label=followers&style=social)
+![GitHub followers](https://img.shields.io/github/followers/saadhaxxan?label=followers&style=social)
 
 <br />
 <br />
@@ -23,8 +23,8 @@
 
 ```json
 {
-   "languages": ["JS/TS", "Python", "Java/Kotlin", "C/C++"],
-   "backend": ["NodeJS", "Django", "Flask", "Managed Cloud Services in AWS/Azure"],
+   "languages": ["JS/TS", "Python", "Java/Kotlin", "C/C++", "Ruby"],
+   "backend": ["NodeJS", "Django", "Flask", "Managed Cloud Services in AWS/Azure","Ruby on Rails","Docker"],
    "frontend": ["Material", "React/Redux", "HTML5/CSS3", "Bootstrap"],
    "databases": ["Mongodb", "Firebase", "Mysql", "Postgresql"],
    "ai framework":["Tensorflow", "PyTorch", "Scikit-learn"],
