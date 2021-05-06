@@ -31,4 +31,6 @@
    "other skills":["Cloud Technologies (Docker)", "CI/CD Pipelines", "Network Protocols & Programming", "Competitive Programming"]
 }
 ```
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadhaxxan&theme=xcode)](https://git.io/praveenscience)
+
 <img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&hide_border=true" />
