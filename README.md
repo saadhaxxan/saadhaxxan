@@ -91,7 +91,7 @@
         <img src="https://symbols.getvecta.com/stencil_89/36_nestjs.14658804d8.png">
     </td>
     <td align='center'>
-        <img src="https://www.pngfind.com/pngs/m/487-4870857_kubernetes-logo-kubernetes-png-transparent-png.png">
+        <img src="https://i.pinimg.com/originals/d3/97/8a/d3978a3830404998788e8c83dfa6f476.png">
     </td>
 </tr>
 </table>
