@@ -28,7 +28,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="120" height="120">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -91,7 +91,7 @@
         <img src="https://symbols.getvecta.com/stencil_89/36_nestjs.14658804d8.png">
     </td>
     <td align='center'>
-        <img src="https://image.pngaaa.com/737/698737-middle.png">
+        <img src="https://www.pngfind.com/pngs/m/487-4870857_kubernetes-logo-kubernetes-png-transparent-png.png">
     </td>
 </tr>
 </table>
