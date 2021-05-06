@@ -28,7 +28,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+        <img src="https://www.clipartmax.com/png/middle/434-4343754_python-logo.png" width="120">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
