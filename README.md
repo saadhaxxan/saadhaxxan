@@ -28,7 +28,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.clipartmax.com/png/middle/434-4343754_python-logo.png" width="120">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="120">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -75,6 +75,23 @@
     </td>
     <td align='center'>
         <img src="https://i.stack.imgur.com/dMXbE.png">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+    </td>
+    <td align='center'>
+        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+    </td>
+    <td align='center'>
+        <img src="https://www.iglobsyn.com/wp-content/uploads/2019/09/Ruby-on-rails-development.png">
+    </td>
+    <td align='center'>
+        <img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.WGSTeMkmlKyhMVynI4jhqaJ3JjH7-1FJs9Imqs5FY0U">
+    </td>
+    <td align='center'>
+        <img src="https://assets-global.website-files.com/603024253162e8642dc31b96/603024253162e83637c320d0_601b7e94d330d7856cc2085a_Kubernetes-2-2.png">
     </td>
 </tr>
 </table>
