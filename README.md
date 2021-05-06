@@ -36,9 +36,18 @@
 
 [![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadhaxxan&theme=xcode)](https://git.io/praveenscience)
 
+## Some Community Projects
+
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**Awesome Python Projects**](https://github.com/saadhaxxan/Awesome-Python-Projects) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Awesome-Python-Projects?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Awesome-Python-Projects/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Awesome-Python-Projects?style=flat&logo=github)](https://github.com/saadhaxxan/Awesome-Python-Projects/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Awesome-Python-Projects?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Awesome-Python-Projects/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**Learn_Machine_Learning_in_5_Monthss**](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Learn_Machine_Learning_in_5_Months?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Learn_Machine_Learning_in_5_Months?style=flat&logo=github)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Learn_Machine_Learning_in_5_Months?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/pulls?q=is%3Apr+is%3Aclosed)   |
+
+## My Activities :mailbox_with_mail:
+
+| BOOTCAMPS & SESSIONS :tv: | 
+| :--- |
+| [Deep Learning with Tensorflow ](https://github.com/dscuol/Deep-Learning-Course) | [Machine Learning Course](https://github.com/dscuol/Machine-Learning-Course) |
+| [Web Development Bootcamp](https://github.com/dscuol/Web-Development-Bootcamp) | 
 
 <img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&hide_border=true" />
