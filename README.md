@@ -6,6 +6,65 @@
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+<h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+</tr>
+</table>
+
+<br />
+<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Saad Hassan" /> </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
@@ -15,23 +74,6 @@
 <a href="mailto:saadhaxxan@ieee.org"><img src="https://img.shields.io/badge/-saadhaxxan@ieee.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/saadhaxxan"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/saaadhaxxan"><img src="https://img.shields.io/badge/-@saaadhaxxan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-<br />
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Saad Hassan" /> </p>
-
-## Technologies Stack
-
-```json
-{
-   "languages": ["JS/TS", "Python", "Java/Kotlin", "C/C++", "Ruby"],
-   "backend": ["NodeJS", "Django", "Flask", "Managed Cloud Services in AWS/Azure","Ruby on Rails","Docker"],
-   "frontend": ["Material", "React/Redux", "HTML5/CSS3", "Bootstrap"],
-   "databases": ["Mongodb", "Firebase", "Mysql", "Postgresql"],
-   "ai framework":["Tensorflow", "PyTorch", "Scikit-learn"],
-   "other skills":["Cloud Technologies (Docker)", "CI/CD Pipelines", "Network Protocols & Programming", "Competitive Programming"]
-}
-```
 
 ## Contribution Graph
 
