@@ -52,4 +52,11 @@
 | [Machine Learning Course](https://github.com/dscuol/Machine-Learning-Course) |
 | [Web Development Bootcamp](https://github.com/dscuol/Web-Development-Bootcamp) | 
 
-<img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&hide_border=true" />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/saadhaxxan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saadhaxxanshow_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadhaxxan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
