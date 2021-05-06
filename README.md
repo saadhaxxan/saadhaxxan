@@ -34,10 +34,10 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qWtC2swHrf52Lusu-UIPXrAUIfb15woyiQ&usqp=CAU">
     </td>
     <td align='center'>
-        <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png">
+        <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
