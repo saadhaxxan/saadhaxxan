@@ -45,13 +45,30 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+        <img src="https://www.seekpng.com/png/detail/80-803527_html5-css3-and-javascript-logos-html5-logo-png.png">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://d1.awsstatic.com/rdsImages/postgresql_logo.6de4615badd99412268bc6aa8fc958a0f403dd41.png">
+    </td>
+    <td align='center'>
+        <img src="https://img.stackshare.io/service/7419/20165699.png">
+    </td>
+    <td align='center'>
+        <img src="https://www.pngfind.com/pngs/m/62-627254_i-wanted-to-give-graphql-a-shot-for.png">
     </td>
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
