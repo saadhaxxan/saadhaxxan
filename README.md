@@ -45,7 +45,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.seekpng.com/png/detail/80-803527_html5-css3-and-javascript-logos-html5-logo-png.png">
+        <img src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
@@ -62,16 +62,16 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://d1.awsstatic.com/rdsImages/postgresql_logo.6de4615badd99412268bc6aa8fc958a0f403dd41.png">
+        <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" >
+        <img src="https://lh3.googleusercontent.com/proxy/6XKs-aZIUk-b5KYk0aX_NTKMEpJLRPkiYqQg7_60gQ3J7eTbp0S3Wele16cpJE3cI3mAt6Dt_8GEDE9FFGiW1U-18iSyVrxvIjHHVn6ZJl4" >
     </td>
     <td align='center'>
         <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
     </td>
     <td align='center'>
-        <img src="https://www.clipartmax.com/png/middle/201-2018012_redis-logo-black-and-white-redis-cache.png">
+        <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
     <td align='center'>
         <img src="https://i.stack.imgur.com/dMXbE.png">
