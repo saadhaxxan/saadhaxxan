@@ -65,16 +65,16 @@
         <img src="https://d1.awsstatic.com/rdsImages/postgresql_logo.6de4615badd99412268bc6aa8fc958a0f403dd41.png">
     </td>
     <td align='center'>
-        <img src="https://img.stackshare.io/service/7419/20165699.png">
+        <img src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" >
     </td>
     <td align='center'>
-        <img src="https://www.pngfind.com/pngs/m/62-627254_i-wanted-to-give-graphql-a-shot-for.png">
+        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://www.clipartmax.com/png/middle/201-2018012_redis-logo-black-and-white-redis-cache.png">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://i.stack.imgur.com/dMXbE.png">
     </td>
 </tr>
 </table>
