@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-<h2><i>💻⚙ Tech Stack</i></h2>
+<h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
 <tr>
