@@ -127,8 +127,10 @@
 | [Deep Learning with Tensorflow ](https://github.com/dscuol/Deep-Learning-Course) |
 | [Machine Learning Course](https://github.com/dscuol/Machine-Learning-Course) |
 | [Web Development Bootcamp](https://github.com/dscuol/Web-Development-Bootcamp) | 
+| [Advanced Web Development Bootcamp](#) | 
+| [NLP Bootcamp](#) | 
 
-### ⚙️ &nbsp;GitHub Analytics
+<h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
 <a href="https://github.com/saadhaxxan">
