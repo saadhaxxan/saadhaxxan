@@ -65,7 +65,7 @@
         <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" >
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center'>
         <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
@@ -94,6 +94,7 @@
         <img src="https://i.pinimg.com/474x/33/0c/57/330c578cac960a7c4725c22973baeb4d.jpg">
     </td>
 </tr>
+
 <tr>
     <td align='center'>
         <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
@@ -103,6 +104,9 @@
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
+    </td>
+    <td align='center'>
+        <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" >
     </td>
 </tr>
     
