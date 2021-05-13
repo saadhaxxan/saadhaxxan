@@ -94,6 +94,11 @@
         <img src="https://i.pinimg.com/474x/33/0c/57/330c578cac960a7c4725c22973baeb4d.jpg">
     </td>
 </tr>
+<tr>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png">
+    </td>
+</tr>
 </table>
 
 <br />
