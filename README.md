@@ -74,7 +74,7 @@
         <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://i.stack.imgur.com/dMXbE.png">
+        <img src="https://dz2cdn1.dzone.com/storage/temp/12418896-apache-kafka.png">
     </td>
 </tr>
 <tr>
