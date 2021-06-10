@@ -89,7 +89,7 @@
         <img src="https://www.iglobsyn.com/wp-content/uploads/2019/09/Ruby-on-rails-development.png">
     </td>
     <td align='center'>
-        <img src="https://symbols.getvecta.com/stencil_89/36_nestjs.14658804d8.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
     </td>
     <td align='center'>
         <img src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png">
