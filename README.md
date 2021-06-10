@@ -1,10 +1,11 @@
 # Hi there, I'm Saad 👋
 
 ### I'm a Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Full Stack Developer
-- 🌱 I’m currently learning Competitive-coding, large scale distributed systems and backend engineering
-- 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working as Full Stack Developer.
+- 🌱 I’m currently learning Competitive-coding, large scale distributed systems design and backend engineering.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 📢 Love to teach and inspire students taught over more then 1k students how to code.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 <h2><i>💻 Tech Stack</i></h2>
 
