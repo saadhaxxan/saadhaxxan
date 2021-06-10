@@ -91,7 +91,7 @@
         <img src="https://symbols.getvecta.com/stencil_89/36_nestjs.14658804d8.png">
     </td>
     <td align='center'>
-        <img src="https://i.pinimg.com/474x/33/0c/57/330c578cac960a7c4725c22973baeb4d.jpg">
+        <img src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png">
     </td>
 </tr>
 
