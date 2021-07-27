@@ -1,8 +1,8 @@
 # Hi there, I'm Saad 👋
 
 ### I'm a Developer, Teacher and Researcher!
-- 🔭 I’m currently working as AI Researcher.
-- 🌱 I’m currently learning Competitive-coding, large scale distributed systems design and backend engineering.
+- 🔭 I’m currently working as AI Researcher and Backend Engineer.
+- 🌱 I’m currently learning Competitive-coding and backend engineering.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 1.5k students.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
