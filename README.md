@@ -2,7 +2,7 @@
 
 ### I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as AI Researcher and Backend Engineer.
-- 🌱 I’m currently learning Competitive-coding and backend engineering.
+- 🌱 I’m currently learning about Data Engineering and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 1.5k students.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
