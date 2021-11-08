@@ -92,7 +92,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png">
+        <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png">
     </td>
 </tr>
 
