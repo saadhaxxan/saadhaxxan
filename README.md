@@ -1,7 +1,7 @@
 # Hi there, I'm Saad 👋
 
 ### I'm a Developer, Teacher and Researcher!
-- 🔭 I’m currently working as AI Researcher and Backend Engineer.
+- 🔭 I’m currently working as Backend and Infrastructure Engineer.
 - 🌱 I’m currently learning about Data Engineering and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 2k students.
