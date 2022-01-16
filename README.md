@@ -5,7 +5,7 @@
 - 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 2k students.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 <h2><i>💻 Tech Stack</i></h2>
 
