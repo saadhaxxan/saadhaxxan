@@ -86,7 +86,7 @@
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
     </td>
     <td align='center'>
-        <img src="https://www.iglobsyn.com/wp-content/uploads/2019/09/Ruby-on-rails-development.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
