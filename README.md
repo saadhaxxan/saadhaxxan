@@ -1,5 +1,8 @@
 # Hi there, I'm Saad 👋
 
+# Bootcamp alert
+- I am currently teaching [Data Structures and Algorithms Bootcamp](https://github.com/saadhaxxan/DSA-Bootcamp-Cpp)
+
 ### I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend and Infrastructure Engineer.
 - 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps.
