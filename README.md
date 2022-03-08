@@ -3,9 +3,10 @@
 # Bootcamp alert
 - [Data Structures and Algorithms Bootcamp](https://github.com/saadhaxxan/DSA-Bootcamp-Cpp) is going on.
 
+<img align="right" alt="" src="backend-show.png" width="300" height="300" />
 ## My Back Engineering Show
 - [The Backend Engineering Show with Saad Hassan](https://www.youtube.com/playlist?list=PLx8CItc_kq60ORFN7NVaD2xae_WystDOa)
-<img align="right" alt="" src="backend-show.png" width="500" height="320" />
+
 
 ### I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend and Infrastructure Engineer.
