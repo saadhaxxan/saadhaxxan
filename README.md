@@ -3,7 +3,7 @@
 # Bootcamp alert
 - [Data Structures and Algorithms Bootcamp](https://github.com/saadhaxxan/DSA-Bootcamp-Cpp) is going on.
 
-<img align="right" alt="" src="backend-show.png" width="300" height="400" />
+<img align="right" alt="" src="backend-show.png" width="350" height="350" />
 
 ## My Backend Engineering Show
 - [The Backend Engineering Show with Saad Hassan](https://www.youtube.com/playlist?list=PLx8CItc_kq60ORFN7NVaD2xae_WystDOa)
