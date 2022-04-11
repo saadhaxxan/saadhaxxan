@@ -171,3 +171,8 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhaxxan&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
+
+# Github Metrics
+<p align="center">
+	<img width="625em" src="https://github.com/saadhaxxan/saadhaxxan/blob/master/github-metrics.svg" />
+</p>
