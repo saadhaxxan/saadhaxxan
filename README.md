@@ -136,10 +136,6 @@
 <a href="https://instagram.com/saadhaxxan"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/saaadhaxxan"><img src="https://img.shields.io/badge/-@saaadhaxxan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
-## Contribution Graph
-
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadhaxxan&theme=xcode)](https://github.com/saadhaxxan)
-
 ## Some Community Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
