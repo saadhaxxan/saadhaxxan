@@ -132,7 +132,7 @@
 <p align="center">
 <a href="https://www.saad-hassan.com"><img src="https://img.shields.io/badge/-saadhassan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/saad-haxxan"><img src="https://img.shields.io/badge/-Saad%20Hassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadhaxxan@ieee.org"><img src="https://img.shields.io/badge/-saadhaxxan@ieee.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:contact@saad-hassan.com"><img src="https://img.shields.io/badge/-saadhaxxan@ieee.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/saadhaxxan"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/saaadhaxxan"><img src="https://img.shields.io/badge/-@saaadhaxxan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
