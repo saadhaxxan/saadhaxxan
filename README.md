@@ -10,7 +10,7 @@
 
 ### I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend and Infrastructure Engineer.
-- 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps.
+- 🌱 I’m currently learning Go and Rust.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 2k students.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
