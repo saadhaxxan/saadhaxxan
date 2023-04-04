@@ -1,8 +1,5 @@
 # Hi there, I'm Saad 👋
 
-# Bootcamp alert
-- [Cloud and DevOps Series](https://github.com/saadhaxxan/Cloud-and-Devops-Series) is going on.
-
 <img align="right" alt="" src="backend-show.png" width="350" height="350" />
 
 ## My Backend Engineering Show
