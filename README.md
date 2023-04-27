@@ -6,7 +6,7 @@
 - [The Backend Engineering Show with Saad Hassan](https://www.youtube.com/playlist?list=PLx8CItc_kq60ORFN7NVaD2xae_WystDOa)
 
 ### I'm a Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend and Infrastructure Engineer in Typescript, Python and K8s.
+- 🔭 I’m currently working as Backend & Infra Engineer with Typescript, Python.
 - 🌱 I’m currently learning Go and Scala.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 2k students.
