@@ -91,13 +91,13 @@
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
+        <img src="https://logodix.com/logo/1686380.png" width="60" height="60">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
+        <img src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" width="60" height="60">
     </td>
     <td align='center'>
-        <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="80">
     </td>
 </tr>
 
@@ -109,10 +109,10 @@
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
+        <img src="https://www.kindpng.com/picc/m/152-1522193_serverless-framework-serverless-inc-hd-png-download.png">
     </td>
     <td align='center'>
-        <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="80" width="90" >
     </td>
     <td align='center'>
         <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
