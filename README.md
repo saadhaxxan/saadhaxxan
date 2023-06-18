@@ -5,11 +5,11 @@
 ## My Backend Engineering Show
 - [The Backend Engineering Show with Saad Hassan](https://www.youtube.com/playlist?list=PLx8CItc_kq60ORFN7NVaD2xae_WystDOa)
 
-### I'm a Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend & Infra Engineer with Typescript, Python.
+### I'm a Developer, Teacher, and Researcher!
+- 🔭 I’m currently working as Backend & Infra Engineer with Typescript, and Python.
 - 🌱 I’m currently learning Go and Scala.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 2k students.
+- 📢 Love to teach and inspire students. Taught more than 2k students.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 
 <h2><i>💻 Tech Stack</i></h2>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -43,7 +43,7 @@
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
     <td align='center'>
-        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
+        <img src="https://www.skillfinder.com.au/media/wysiwyg/mongodb-logo-skill-finder.png">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
