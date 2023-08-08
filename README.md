@@ -60,7 +60,7 @@
         <img src="https://miro.medium.com/v2/resize:fit:1400/1*4M4OghuybPhjRsLxhrNsGA.png">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="60">
     </td>
     <td align='center'>
         <img src="https://allvectorlogo.com/img/2019/06/elastic-elasticsearch-logo-vector.png">
