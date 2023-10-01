@@ -109,7 +109,7 @@
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://www.kindpng.com/picc/m/152-1522193_serverless-framework-serverless-inc-hd-png-download.png">
+        <img src="https://cloudnesil.com/wp-content/uploads/2019/05/serverless.png">
     </td>
     <td align='center'>
         <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="80" width="90" >
