@@ -85,14 +85,3 @@ I host **The Backend Engineering Show**, a series on designing backend systems a
 </td>
 </tr>
 </table>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/saadhaxxan"><img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhaxxan&layout=compact&langs_count=8&theme=algolia&hide_border=true" /></a>
-  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=saadhaxxan&theme=merko&hide_border=true" />
-</p>
